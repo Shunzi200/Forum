@@ -42,7 +42,7 @@ Here are some screenshots to give you a glimpse into what Forum looks like in ac
 
 ## Security Notice
 
-For security reasons, the `FireBaseConnector.swift` and `AlgoliaConnector.swift`, `notifications.swift` files, as well as any authentication keys, have been removed from this public repository. These components are crucial for the app's functionality related to database interactions and search capabilities. If you are working on this project or need access to these components, please contact the project administrator for secure access.
+For security reasons, the `FireBaseConnector.swift`, `AlgoliaConnector.swift` and`notifications.swift` files, as well as any authentication keys, have been removed from this public repository. These components are crucial for the app's functionality related to database interactions and search capabilities. If you are working on this project or need access to these components, please contact the project administrator for secure access.
 
 ## Connect With Us
 
